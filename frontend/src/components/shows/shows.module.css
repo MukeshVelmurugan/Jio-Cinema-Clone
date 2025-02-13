@@ -1,0 +1,18 @@
+.shows{
+    width: 100%;
+    /* height: 400px; */
+    background-color: #0d0e10;
+    padding: 10px 2%;
+
+}
+.showsParent{
+    width: 100%;
+    /* height: 400px; */
+    /* background-color: blue; */
+    display: flex;
+    column-gap: 10px;
+}
+.shows h1{
+    padding-bottom: 20px;
+}
+
