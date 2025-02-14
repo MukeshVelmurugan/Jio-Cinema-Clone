@@ -114,6 +114,17 @@ Jio-Clone/
 
 🔹 Movie trailers & details page
 
+## Output
+![Screenshot 2025-02-14 111056](https://github.com/user-attachments/assets/3e8e34d3-e2ec-4ecd-9af9-76ccde543681)
+![Screenshot 2025-02-14 111124](https://github.com/user-attachments/assets/554f4ebc-ce4a-4141-b875-247717c792a4)
+![Screenshot 2025-02-14 111207](https://github.com/user-attachments/assets/61593123-c1bc-4556-ae09-a5d114eb6ba7)
+![Screenshot 2025-02-14 111231](https://github.com/user-attachments/assets/4ffe70b3-45d8-4613-9ff8-5e6a4268335a)
+![Screenshot 2025-02-14 111251](https://github.com/user-attachments/assets/506310aa-bb04-4783-a9e9-76b24fd5b59d)
+### Search Feature
+![image](https://github.com/user-attachments/assets/be0a4134-5576-4ad0-92a2-37b4f450a10f)
+
+
+
 ## Contributing
 
 Feel free to fork this repository and make improvements.
